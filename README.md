@@ -1,1 +1,1 @@
-# template-static
+# Simple Static Template
